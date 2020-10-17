@@ -27,5 +27,5 @@ Here are links to other resources to learn things like basic coding, data scienc
 [MIT Intro to Programming in Python Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/)  
 [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)  
 [Youtube channel for Machine Learning concepts ](https://www.youtube.com/c/IntuitiveMachineLearning/videos)  
-
+[Numpy Guide with Code Samples](https://towardsdatascience.com/numpy-cheat-sheet-4e3858d0ff0e)  
 
