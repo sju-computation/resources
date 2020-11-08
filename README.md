@@ -29,3 +29,9 @@ Here are links to other resources to learn things like basic coding, data scienc
 [Youtube channel for Machine Learning concepts ](https://www.youtube.com/c/IntuitiveMachineLearning/videos)  
 [Numpy Guide with Code Samples](https://towardsdatascience.com/numpy-cheat-sheet-4e3858d0ff0e)  
 
+## Contact
+Isaac Moorman
+isaac.moorman18@stjohns.edu
+
+Dr. Florin Catrina
+catrinaf@stjohns.edu
