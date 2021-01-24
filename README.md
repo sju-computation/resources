@@ -5,13 +5,13 @@
 There are a number of different options, but some of the most popular are Visual Studio Code, RStudio, and JupyterNotebooks. They can be downloaded as seperate applications, or all 3 (and more) can be accessed by only downloading the Anaconda distribution (which is my recommendation). In addition I recommend downloading the GitHub Desktop app, for the easiest access to the repositories.
 
 Links to download:  
-[Anaconda](https://www.anaconda.com/products/individual)  
-[GitHub Desktop](https://desktop.github.com/)  
-[Visual Studio Code](https://code.visualstudio.com/) 
-[R](https://www.r-project.org/) 
-[R Studio](https://rstudio.com/products/rstudio/)  
-[Python](https://www.python.org/downloads/)
-[JupyterNotebooks](https://jupyter.org/install)  
+[Anaconda](https://www.anaconda.com/products/individual)  \
+[GitHub Desktop](https://desktop.github.com/)  \
+[Visual Studio Code](https://code.visualstudio.com/)  \
+[R](https://www.r-project.org/)  \
+[R Studio](https://rstudio.com/products/rstudio/)  \
+[Python](https://www.python.org/downloads/) \
+[JupyterNotebooks](https://jupyter.org/install) \ 
 
 ## Accessing GitHub
 The easiest way to access the github repo is using the Github Desktop app. After signing into a Github account, and adding the sju-computation/projects repository, you should be able to push/pull projects of your own. You can also add the sju-computation/resources repo to have all the resources on your local machine. The folders should be located in the path documents/GitHub/projects. After editing files in one of the above environments, you can return to GitHub Desktop and push your updated files to the repository. Additionally, you can fetch the updated repository in GitHub Desktop, and pull the new and updated files.   
