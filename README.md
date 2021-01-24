@@ -6,17 +6,11 @@ There are a number of different options, but some of the most popular are Visual
 
 Links to download:  
 [Anaconda](https://www.anaconda.com/products/individual)  
-
 [GitHub Desktop](https://desktop.github.com/)  
-
 [Visual Studio Code](https://code.visualstudio.com/) 
-
 [R](https://www.r-project.org/) 
-
 [R Studio](https://rstudio.com/products/rstudio/)  
-
 [Python](https://www.python.org/downloads/)
-
 [JupyterNotebooks](https://jupyter.org/install)  
 
 ## Accessing GitHub
