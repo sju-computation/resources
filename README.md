@@ -11,7 +11,7 @@ Links to download:
 [R](https://www.r-project.org/)  \
 [R Studio](https://rstudio.com/products/rstudio/)  \
 [Python](https://www.python.org/downloads/) \
-[JupyterNotebooks](https://jupyter.org/install) \ 
+[JupyterNotebooks](https://jupyter.org/install) 
 
 ## Accessing GitHub
 The easiest way to access the github repo is using the Github Desktop app. After signing into a Github account, and adding the sju-computation/projects repository, you should be able to push/pull projects of your own. You can also add the sju-computation/resources repo to have all the resources on your local machine. The folders should be located in the path documents/GitHub/projects. After editing files in one of the above environments, you can return to GitHub Desktop and push your updated files to the repository. Additionally, you can fetch the updated repository in GitHub Desktop, and pull the new and updated files.   
